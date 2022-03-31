@@ -11,5 +11,5 @@ Estudie programación 3 años como técnico y ahora me trato de enforcar más en
 
 **contactos ✨**
 
-- {{ site.author.email }}
+<!-- - {{ site.author.email }} -->
 - github.com/{{ site.author.github }}
