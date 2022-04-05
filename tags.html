@@ -6,7 +6,7 @@ excerpt: Sorted article by tags.
 ---
 
 <div class="archive-tags">
-  <a class="tag-item" href="#">all</a>
+  <a class="tag-item" href="#"><i class="bi bi-tags"></i></a>
   {%- for tag in site.tags -%} 
     {% capture name %}{{ tag | first }}{% endcapture %}
     <a class="tag-item" href="#{{name}}">{{ name }}</a> 
@@ -25,3 +25,5 @@ excerpt: Sorted article by tags.
     </article>
   {%- endfor -%}
 {%- endfor -%}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
