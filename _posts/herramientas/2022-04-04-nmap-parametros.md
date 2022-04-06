@@ -84,3 +84,11 @@ tag:
 **-A** nos brinda información del sistema operativo y sus servicios activos (nota: suele ser un parámetro muy ruidoso).
 
 **--open** es un filtro para que solo nos muestre como resultado los puertos abiertos. 
+
+### Ejemplos
+
+**-** nmap -sC -sV -p 21,22,80 "ip" -oN infoPorts
+
+**-** nmap -p- -sS --min-rate 5000 --open -vvv -n -Pn "ip" -oG ports
+
+**-**  nmap -p- --open -T5 -v -n "ip"
