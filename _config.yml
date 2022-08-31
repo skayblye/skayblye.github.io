@@ -2,7 +2,7 @@
 title: HackBlye # site title
 description: >- # site description
   Un blog donde encontraras contenido de ciberseguridad, hacking etico y retos CTFS.
-lang: en-US # default lang
+lang: en-ES # default lang
 # timezone: Asia/Jakarta # set your timezone
 image: assets/img/skay.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/skayblye/skayblye.github.io # site repo [optional]
