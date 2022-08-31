@@ -47,6 +47,6 @@ Al activar anonsuft nos borro un archivo muy importante localizado en etc con el
 
 Un ejemplo: 
 
-![imagen](https://91980f4a-a-62cb3a1a-s-sites.googlegroups.com/site/vaisereso/sor/windows-2012-como-router/active-directory-ubuntu-14-04/Selecci%C3%B3n_003.png?attachauth=ANoY7cqkYKJjpzlIPgH20I5Wgm4J_FEjwbsz1_EJdua-DtOhpsUXftOhWw8cXITx4AIzV8Zll8uzs1eifXARQp5wu_6-0HIkNHa4vdWLrLASbjvDurPjzQvb3HFPOcLLOhPc1f3yP-Ez9m6h73_PXZKChPaBUt184grIj3k1rGzJp3XRIS35bqwufV5ojgDGi5XkQ9rmNMbxhh11W-87v0pVFqkQSfT6se8K2LPdcc6y9Dd_BH7GacUBHGped2t4pjluNfs6BJ3okBBq7nTj0W5QAGPsCQq1RtYj5zELIJXqOfU7lOa9m78%3D&attredirects=0)
+![imagen 6](https://raw.githubusercontent.com/skayblye/skayblye.github.io/master/_posts/sin-internet-anonsurf/Selecci%C3%B3n_003.png)
 
 Este pequeño archivo está presente en la mayoría de sistemas y es el encargado de configurar la resolución de nombres de dominio. Por esa razón nos decía que no podía encontrar el servidor.
