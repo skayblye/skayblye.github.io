@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tryhackme - Soerce
+title: Tryhackme Soerce
 date: 2022-09-04
 modified: 2022-09-04
 description: resolución de la maquina source de la plataforma tryhackme.
